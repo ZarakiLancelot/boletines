@@ -1,0 +1,17 @@
+.content {
+    overflow-x: auto;
+}
+
+table, td {
+    border: solid 1px;
+}
+
+img {
+    width: 150px;
+    height: auto;
+}
+
+image {
+    width: 500px;
+    height: auto;
+}
